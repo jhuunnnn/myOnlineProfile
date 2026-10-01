@@ -6,6 +6,4 @@ Skills Learned
 3. Applying github pages to deploy a live preview
 
    **Tools Used:** React and Pure CSS
-   **Live Preview:** https://coding-jhuunn.github.io/mainOnlineProfile/
-
 
